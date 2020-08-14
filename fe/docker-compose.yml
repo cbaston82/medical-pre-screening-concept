@@ -1,0 +1,16 @@
+version: '3.5'
+
+services:
+
+  lvrc-app:
+    container_name: screening-1
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/usr/src/app'
+      - '/usr/src/app/node_modules'
+    ports:
+      - '3006:3000'
+    environment:
+      - NODE_ENV=development

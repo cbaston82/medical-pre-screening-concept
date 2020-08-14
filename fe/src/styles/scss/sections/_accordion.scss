@@ -1,0 +1,13 @@
+#accordion-container {
+  margin-top: 100px;
+  margin-bottom: 110px;
+  .card {
+    border: none;
+    .card-body {
+      background-color: $white;
+    }
+  }
+  .btn-link {
+    color: $dark-green;
+  }
+}

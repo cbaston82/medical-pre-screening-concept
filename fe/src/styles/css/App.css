@@ -1,0 +1,88 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+html body {
+  padding-top: 50px;
+  margin-bottom: 120px;
+  font-family: sans-serif;
+  background-color: #FFFFFF;
+}
+
+.navbar {
+  background-color: #005C42;
+}
+.navbar .navbar-brand {
+  color: #FFFFFF;
+}
+
+#accordion-container {
+  margin-top: 100px;
+  margin-bottom: 110px;
+}
+#accordion-container .card {
+  border: none;
+}
+#accordion-container .card .card-body {
+  background-color: #FFFFFF;
+}
+#accordion-container .btn-link {
+  color: #005C42;
+}
+
+.footer {
+  position: absolute;
+  margin-top: 100px;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  line-height: 60px;
+  /* Vertically center the text there */
+  background-color: #005C42;
+}
+.footer .copy {
+  color: #FFFFFF;
+}
+.footer .copy a {
+  color: #F78F1E;
+  text-decoration: none;
+}
+.footer .copy a:hover {
+  color: #fcd9b2;
+}
+
+#loader {
+  position: absolute;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 10em;
+  height: 10em;
+  margin-top: -5em;
+  margin-left: -5em;
+}
+
+.grid-form [data-row-span] {
+  border-bottom: 1px solid #e8dd0a;
+}
+.grid-form [data-row-span] [data-field-span] label:first-child {
+  color: #F78F1E;
+  font-weight: bold;
+}
+.grid-form [data-row-span] [data-field-span] :hover {
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 700px) and (min-width: 0) {
+  .grid-form [data-row-span] [data-field-span] {
+    border-bottom: 1px solid #e8dd0a;
+  }
+}
+@media only screen and (min-width: 700px) {
+  .grid-form [data-row-span] [data-field-span] {
+    border-right: 1px solid #e8dd0a;
+  }
+}
+
+/*# sourceMappingURL=App.css.map */

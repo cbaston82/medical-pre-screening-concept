@@ -1,0 +1,26 @@
+.grid-form {
+  [data-row-span] {
+    border-bottom: 1px solid $yellow;
+    [data-field-span] {
+      label:first-child {
+        color: $orange;
+        font-weight: bold;
+      }
+      :hover {
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 700px) and (min-width: 0) {
+  .grid-form [data-row-span] [data-field-span] {
+    border-bottom: 1px solid $yellow;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  .grid-form [data-row-span] [data-field-span] {
+    border-right: 1px solid $yellow;
+  }
+}

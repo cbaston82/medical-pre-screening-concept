@@ -1,0 +1,3 @@
+export const GET_PERSON_DATA = 'GET_PERSON_DATA'
+export const GET_APP_DATA = 'GET_APP_DATA'
+export const STOP_LOADING = 'STOP_LOADING'

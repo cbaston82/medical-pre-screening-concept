@@ -1,0 +1,223 @@
+{
+  "generalInfo": {
+    "id": 0,
+    "age": 201,
+    "name": "Granny Jay",
+    "gender": "Female",
+    "dob": "1957-08-01",
+    "height": "54",
+    "weight": "210",
+    "bmi": "28.5"
+  },
+  "motivations": ["Housing", "Disability Benefits", "Keep a Relationship"],
+  "dependencies": [
+    {
+      "facility": "Facility 1",
+      "diagnosis": "Like to wallow flys",
+      "medications": "Midcation-A, Medication-B",
+      "datesOfCare": "2018-01-01 2018-05-01",
+      "dischargeType": "COMP",
+      "periodOfAbstinence": "3 Months",
+      "medicalRecordsRequested": "Y"
+
+    },
+    {
+      "facility": "Facility 2",
+      "diagnosis": "Graduated to swallowing Spiders",
+      "medications": "Midcation-Z, Medication-B",
+      "datesOfCare": "2018-05-02 2018-05-01",
+      "dischargeType": "COMP",
+      "periodOfAbstinence": "1 Months",
+      "medicalRecordsRequested": "Y"
+
+    }
+  ],
+  "substanceUse": [
+    {
+      "name": "Alcohol",
+      "type": "Forty Ounce",
+      "firstUse": "2010",
+      "lastUse": "2018",
+      "amount": "Alot",
+      "frequency": "Daily",
+      "method": "Pllead the fifth",
+      "symptoms": "Liver issues"
+    },
+    {
+      "name": "Marijuan",
+      "type": "Purple cush",
+      "firstUse": "2010",
+      "lastUse": "2018",
+      "amount": "Ounces and ounces",
+      "frequency": "Hkourly",
+      "method": "Oral",
+      "symptoms": "Sevier cottom mouth"
+    },
+    {
+      "name": "Barbiturates",
+      "type": "Seconal",
+      "firstUse": "2011",
+      "lastUse": "2017",
+      "amount": "Enough",
+      "frequency": "Every blue moon",
+      "method": "oral",
+      "symptoms": "High as a kite"
+    }
+  ],
+  "addictions": ["Gambling", "Sex Addition", " Pornography", "Gambling", "Internet", "Shopping"],
+  "eatingDisorders": [
+    {
+      "facility": "Facility 1",
+      "diagnosis": "Like to swallow bugs",
+      "medications": "Midcation-A, Medication-B",
+      "datesOfCare": "2018-01-01 2018-05-01",
+      "dischargeType": "COMP",
+      "hospitalized": "yes",
+      "medicalRecordsRequested": "Y"
+
+    },
+    {
+      "facility": "Facility 2",
+      "diagnosis": "Swallowed a Cat",
+      "medications": "Midcation-Z, Medication-B",
+      "datesOfCare": "2018-05-02 2018-05-01",
+      "dischargeType": "COMP",
+      "hospitalized": "Yes",
+      "medicalRecordsRequested": "Y"
+
+    }
+  ],
+  "suicide": [
+    {
+      "question": "HAVE YOU ATTEMPTED SUICIDE?",
+      "answer": "Yes",
+      "date": "2018-01-01",
+      "method": "Swallowed a pider."
+    },
+    {
+      "question": "HAVE YOU OR DO YOU HAVE PLANS FOR SUICIE?",
+      "answer": "Yes",
+      "date": "2038-01-18",
+      "method": "Will atempt to swallow cow."
+    },
+    {
+      "question": "HAVE YOU HAD SUICIDAL THOUGTS OR SUICIDAL IDATIONS?",
+      "answer": "Yes",
+      "date": "2038-02-01",
+      "method": "Thought about swallowing a skunk."
+    }
+  ],
+  "psychTreatments": [
+    {
+      "facility": "Facility 1",
+      "diagnosis": "Likes to swallow bugs",
+      "medications": "Midcation-A, Medication-B",
+      "datesOfCare": "2018-01-01 2018-05-01",
+      "dischargeType": "COMP",
+      "hospitalized": "yes",
+      "medicalRecordsRequested": "Y"
+
+    },
+    {
+      "facility": "Facility 2",
+      "diagnosis": "Likes to swallow whole animals",
+      "medications": "Midcation-Z, Medication-B",
+      "datesOfCare": "2018-05-02 2018-05-01",
+      "dischargeType": "COMP",
+      "hospitalized": "Yes",
+      "medicalRecordsRequested": "Y"
+    }
+  ],
+  "medications": [
+    {
+      "name": "Medication 1",
+      "dose": "3 times daily",
+      "ongoingMedicationCondition": "Not to good still swallowing things",
+      "howLong": "1 year",
+      "takingAsPrescribed": "Y",
+      "prescriber": "IDK"
+    },
+    {
+      "name": "Medication 2",
+      "dose": "Every 12 hours",
+      "ongoingMedicationCondition": "Needs a miracle medication, She cant stop swallowing animals",
+      "howLong": "6 months",
+      "takingAsPrescribed": "Y",
+      "prescriber": "Yohanna Yomomma"
+    }
+  ],
+  "currentMedicalConditions": [
+    {
+      "condition": "Swallowidas",
+      "onset": "Yup",
+      "physician": "Dr. Seuss",
+      "medicalRecordsRequested": "N"
+    }
+  ],
+  "otherMedicalConditions": [
+    {
+      "condition": "Growing animal limbs",
+      "onset": "Yup",
+      "physician": "Dr. Seuss",
+      "medicalRecordsRequested": "N"
+    }
+  ],
+  "allergies": [
+    {
+      "allergy": "people",
+      "allergicResponse": "Turns into a ball"
+    },
+    {
+      "allergy": "sun",
+      "allergicResponse": "Starts to melt away"
+    }
+  ],
+  "previousHospitalizations": [
+    {
+      "hospital": "Hospital 1",
+      "dateOfAdmission": "2018-01-08",
+      "reasonForAdmission": "Swallowed a fly",
+      "medicalRecordsRequested": "Y"
+    },
+    {
+      "hospital": "Hospital 2",
+      "dateOfAdmission": "2018-01-09",
+      "reasonForAdmission": "Swallowed a spider",
+      "medicalRecordsRequested": "Y"
+    }
+  ],
+  "tbiHistory": [
+    {
+      "date": "2018-02-05",
+      "evaluatedBy": "Yohanna Yomomma",
+      "results": "Fly in stomach",
+      "medicalRecordsRequested": "Y"
+    },
+    {
+      "date": "2018-02-05",
+      "evaluatedBy": "Yohanna Yomomma's sister",
+      "results": "Spider in stomach",
+      "medicalRecordsRequested": "Y"
+    }
+  ],
+  "surgicalHistory": [
+    {
+      "procedure": "Removed goat she swallowed",
+      "dates": "2018-06-01",
+      "results": "Looks like a freak",
+      "medicalRecordsRequested": "Y"
+    },
+    {
+      "procedure": "Removed cow she swallowed",
+      "dates": "2018-06-01",
+      "results": "Doesn't look human",
+      "medicalRecordsRequested": "Y"
+    }
+  ],
+  "specialNeeds": [
+    {
+      "needs": "Needs help putting two and two together, doesn't have very much logic or common sense at ALL. Needs help swallowing an elephant."
+    }
+  ]
+
+}
