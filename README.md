@@ -1,4 +1,4 @@
-# Medical Pre Screening Concep
+# Medical Pre Screening Concept
 A medical pre-screening application concept
 
 ## Frontend - ReactJS - Complete
